@@ -4,3 +4,4 @@ TODO.lst
 setup.py
 dist/*
 build/*
+.vscode
